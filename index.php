@@ -9,6 +9,7 @@
             validar=(m,d)=>{
                 // Autor Sebastián López
                 // Github: slopezvvv
+                // Email: slopez@tuserver.cl
                 // ShaderToy: lechuga
                 //--------------------------------
                 // m = mantiza
